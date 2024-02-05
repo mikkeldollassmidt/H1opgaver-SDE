@@ -1,0 +1,14 @@
+C:\Users\HFGF\Desktop\h1opgaver\Basic1\bin\Debug\net8.0\Basic1.exe
+C:\Users\HFGF\Desktop\h1opgaver\Basic1\bin\Debug\net8.0\Basic1.deps.json
+C:\Users\HFGF\Desktop\h1opgaver\Basic1\bin\Debug\net8.0\Basic1.runtimeconfig.json
+C:\Users\HFGF\Desktop\h1opgaver\Basic1\bin\Debug\net8.0\Basic1.dll
+C:\Users\HFGF\Desktop\h1opgaver\Basic1\bin\Debug\net8.0\Basic1.pdb
+C:\Users\HFGF\Desktop\h1opgaver\Basic1\obj\Debug\net8.0\Basic1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\Desktop\h1opgaver\Basic1\obj\Debug\net8.0\Basic1.AssemblyInfoInputs.cache
+C:\Users\HFGF\Desktop\h1opgaver\Basic1\obj\Debug\net8.0\Basic1.AssemblyInfo.cs
+C:\Users\HFGF\Desktop\h1opgaver\Basic1\obj\Debug\net8.0\Basic1.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\Desktop\h1opgaver\Basic1\obj\Debug\net8.0\Basic1.dll
+C:\Users\HFGF\Desktop\h1opgaver\Basic1\obj\Debug\net8.0\refint\Basic1.dll
+C:\Users\HFGF\Desktop\h1opgaver\Basic1\obj\Debug\net8.0\Basic1.pdb
+C:\Users\HFGF\Desktop\h1opgaver\Basic1\obj\Debug\net8.0\Basic1.genruntimeconfig.cache
+C:\Users\HFGF\Desktop\h1opgaver\Basic1\obj\Debug\net8.0\ref\Basic1.dll
