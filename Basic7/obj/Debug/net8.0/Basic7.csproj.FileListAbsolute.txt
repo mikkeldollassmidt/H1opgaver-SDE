@@ -1,0 +1,14 @@
+C:\h1opgaver\Basic7\bin\Debug\net8.0\Basic7.exe
+C:\h1opgaver\Basic7\bin\Debug\net8.0\Basic7.deps.json
+C:\h1opgaver\Basic7\bin\Debug\net8.0\Basic7.runtimeconfig.json
+C:\h1opgaver\Basic7\bin\Debug\net8.0\Basic7.dll
+C:\h1opgaver\Basic7\bin\Debug\net8.0\Basic7.pdb
+C:\h1opgaver\Basic7\obj\Debug\net8.0\Basic7.GeneratedMSBuildEditorConfig.editorconfig
+C:\h1opgaver\Basic7\obj\Debug\net8.0\Basic7.AssemblyInfoInputs.cache
+C:\h1opgaver\Basic7\obj\Debug\net8.0\Basic7.AssemblyInfo.cs
+C:\h1opgaver\Basic7\obj\Debug\net8.0\Basic7.csproj.CoreCompileInputs.cache
+C:\h1opgaver\Basic7\obj\Debug\net8.0\Basic7.dll
+C:\h1opgaver\Basic7\obj\Debug\net8.0\refint\Basic7.dll
+C:\h1opgaver\Basic7\obj\Debug\net8.0\Basic7.pdb
+C:\h1opgaver\Basic7\obj\Debug\net8.0\Basic7.genruntimeconfig.cache
+C:\h1opgaver\Basic7\obj\Debug\net8.0\ref\Basic7.dll
