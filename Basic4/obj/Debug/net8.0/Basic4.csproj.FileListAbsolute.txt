@@ -1,0 +1,14 @@
+C:\h1opgaver\Basic4\bin\Debug\net8.0\Basic4.exe
+C:\h1opgaver\Basic4\bin\Debug\net8.0\Basic4.deps.json
+C:\h1opgaver\Basic4\bin\Debug\net8.0\Basic4.runtimeconfig.json
+C:\h1opgaver\Basic4\bin\Debug\net8.0\Basic4.dll
+C:\h1opgaver\Basic4\bin\Debug\net8.0\Basic4.pdb
+C:\h1opgaver\Basic4\obj\Debug\net8.0\Basic4.GeneratedMSBuildEditorConfig.editorconfig
+C:\h1opgaver\Basic4\obj\Debug\net8.0\Basic4.AssemblyInfoInputs.cache
+C:\h1opgaver\Basic4\obj\Debug\net8.0\Basic4.AssemblyInfo.cs
+C:\h1opgaver\Basic4\obj\Debug\net8.0\Basic4.csproj.CoreCompileInputs.cache
+C:\h1opgaver\Basic4\obj\Debug\net8.0\Basic4.dll
+C:\h1opgaver\Basic4\obj\Debug\net8.0\refint\Basic4.dll
+C:\h1opgaver\Basic4\obj\Debug\net8.0\Basic4.pdb
+C:\h1opgaver\Basic4\obj\Debug\net8.0\Basic4.genruntimeconfig.cache
+C:\h1opgaver\Basic4\obj\Debug\net8.0\ref\Basic4.dll
