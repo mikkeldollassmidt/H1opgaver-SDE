@@ -1,0 +1,14 @@
+C:\h1opgaver\Basic6\bin\Debug\net8.0\Basic6.exe
+C:\h1opgaver\Basic6\bin\Debug\net8.0\Basic6.deps.json
+C:\h1opgaver\Basic6\bin\Debug\net8.0\Basic6.runtimeconfig.json
+C:\h1opgaver\Basic6\bin\Debug\net8.0\Basic6.dll
+C:\h1opgaver\Basic6\bin\Debug\net8.0\Basic6.pdb
+C:\h1opgaver\Basic6\obj\Debug\net8.0\Basic6.GeneratedMSBuildEditorConfig.editorconfig
+C:\h1opgaver\Basic6\obj\Debug\net8.0\Basic6.AssemblyInfoInputs.cache
+C:\h1opgaver\Basic6\obj\Debug\net8.0\Basic6.AssemblyInfo.cs
+C:\h1opgaver\Basic6\obj\Debug\net8.0\Basic6.csproj.CoreCompileInputs.cache
+C:\h1opgaver\Basic6\obj\Debug\net8.0\Basic6.dll
+C:\h1opgaver\Basic6\obj\Debug\net8.0\refint\Basic6.dll
+C:\h1opgaver\Basic6\obj\Debug\net8.0\Basic6.pdb
+C:\h1opgaver\Basic6\obj\Debug\net8.0\Basic6.genruntimeconfig.cache
+C:\h1opgaver\Basic6\obj\Debug\net8.0\ref\Basic6.dll
