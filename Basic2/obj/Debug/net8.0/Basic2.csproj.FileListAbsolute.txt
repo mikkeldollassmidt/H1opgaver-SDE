@@ -1,0 +1,14 @@
+C:\h1opgaver\Basic2\bin\Debug\net8.0\Basic2.exe
+C:\h1opgaver\Basic2\bin\Debug\net8.0\Basic2.deps.json
+C:\h1opgaver\Basic2\bin\Debug\net8.0\Basic2.runtimeconfig.json
+C:\h1opgaver\Basic2\bin\Debug\net8.0\Basic2.dll
+C:\h1opgaver\Basic2\bin\Debug\net8.0\Basic2.pdb
+C:\h1opgaver\Basic2\obj\Debug\net8.0\Basic2.GeneratedMSBuildEditorConfig.editorconfig
+C:\h1opgaver\Basic2\obj\Debug\net8.0\Basic2.AssemblyInfoInputs.cache
+C:\h1opgaver\Basic2\obj\Debug\net8.0\Basic2.AssemblyInfo.cs
+C:\h1opgaver\Basic2\obj\Debug\net8.0\Basic2.csproj.CoreCompileInputs.cache
+C:\h1opgaver\Basic2\obj\Debug\net8.0\Basic2.dll
+C:\h1opgaver\Basic2\obj\Debug\net8.0\refint\Basic2.dll
+C:\h1opgaver\Basic2\obj\Debug\net8.0\Basic2.pdb
+C:\h1opgaver\Basic2\obj\Debug\net8.0\Basic2.genruntimeconfig.cache
+C:\h1opgaver\Basic2\obj\Debug\net8.0\ref\Basic2.dll
