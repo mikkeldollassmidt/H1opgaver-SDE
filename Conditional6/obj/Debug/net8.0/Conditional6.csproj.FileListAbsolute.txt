@@ -1,0 +1,14 @@
+C:\h1opgaver\Conditional6\bin\Debug\net8.0\Conditional6.exe
+C:\h1opgaver\Conditional6\bin\Debug\net8.0\Conditional6.deps.json
+C:\h1opgaver\Conditional6\bin\Debug\net8.0\Conditional6.runtimeconfig.json
+C:\h1opgaver\Conditional6\bin\Debug\net8.0\Conditional6.dll
+C:\h1opgaver\Conditional6\bin\Debug\net8.0\Conditional6.pdb
+C:\h1opgaver\Conditional6\obj\Debug\net8.0\Conditional6.GeneratedMSBuildEditorConfig.editorconfig
+C:\h1opgaver\Conditional6\obj\Debug\net8.0\Conditional6.AssemblyInfoInputs.cache
+C:\h1opgaver\Conditional6\obj\Debug\net8.0\Conditional6.AssemblyInfo.cs
+C:\h1opgaver\Conditional6\obj\Debug\net8.0\Conditional6.csproj.CoreCompileInputs.cache
+C:\h1opgaver\Conditional6\obj\Debug\net8.0\Conditional6.dll
+C:\h1opgaver\Conditional6\obj\Debug\net8.0\refint\Conditional6.dll
+C:\h1opgaver\Conditional6\obj\Debug\net8.0\Conditional6.pdb
+C:\h1opgaver\Conditional6\obj\Debug\net8.0\Conditional6.genruntimeconfig.cache
+C:\h1opgaver\Conditional6\obj\Debug\net8.0\ref\Conditional6.dll
