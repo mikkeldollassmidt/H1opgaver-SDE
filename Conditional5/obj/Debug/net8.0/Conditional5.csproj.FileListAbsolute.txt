@@ -1,0 +1,14 @@
+C:\h1opgaver\Conditional5\bin\Debug\net8.0\Conditional5.exe
+C:\h1opgaver\Conditional5\bin\Debug\net8.0\Conditional5.deps.json
+C:\h1opgaver\Conditional5\bin\Debug\net8.0\Conditional5.runtimeconfig.json
+C:\h1opgaver\Conditional5\bin\Debug\net8.0\Conditional5.dll
+C:\h1opgaver\Conditional5\bin\Debug\net8.0\Conditional5.pdb
+C:\h1opgaver\Conditional5\obj\Debug\net8.0\Conditional5.GeneratedMSBuildEditorConfig.editorconfig
+C:\h1opgaver\Conditional5\obj\Debug\net8.0\Conditional5.AssemblyInfoInputs.cache
+C:\h1opgaver\Conditional5\obj\Debug\net8.0\Conditional5.AssemblyInfo.cs
+C:\h1opgaver\Conditional5\obj\Debug\net8.0\Conditional5.csproj.CoreCompileInputs.cache
+C:\h1opgaver\Conditional5\obj\Debug\net8.0\Conditional5.dll
+C:\h1opgaver\Conditional5\obj\Debug\net8.0\refint\Conditional5.dll
+C:\h1opgaver\Conditional5\obj\Debug\net8.0\Conditional5.pdb
+C:\h1opgaver\Conditional5\obj\Debug\net8.0\Conditional5.genruntimeconfig.cache
+C:\h1opgaver\Conditional5\obj\Debug\net8.0\ref\Conditional5.dll
