@@ -1,0 +1,14 @@
+C:\h1opgaver\Conditional2\obj\Debug\net8.0\Conditional2.GeneratedMSBuildEditorConfig.editorconfig
+C:\h1opgaver\Conditional2\obj\Debug\net8.0\Conditional2.AssemblyInfoInputs.cache
+C:\h1opgaver\Conditional2\obj\Debug\net8.0\Conditional2.AssemblyInfo.cs
+C:\h1opgaver\Conditional2\obj\Debug\net8.0\Conditional2.csproj.CoreCompileInputs.cache
+C:\h1opgaver\Conditional2\bin\Debug\net8.0\Conditional2.exe
+C:\h1opgaver\Conditional2\bin\Debug\net8.0\Conditional2.deps.json
+C:\h1opgaver\Conditional2\bin\Debug\net8.0\Conditional2.runtimeconfig.json
+C:\h1opgaver\Conditional2\bin\Debug\net8.0\Conditional2.dll
+C:\h1opgaver\Conditional2\bin\Debug\net8.0\Conditional2.pdb
+C:\h1opgaver\Conditional2\obj\Debug\net8.0\Conditional2.dll
+C:\h1opgaver\Conditional2\obj\Debug\net8.0\refint\Conditional2.dll
+C:\h1opgaver\Conditional2\obj\Debug\net8.0\Conditional2.pdb
+C:\h1opgaver\Conditional2\obj\Debug\net8.0\Conditional2.genruntimeconfig.cache
+C:\h1opgaver\Conditional2\obj\Debug\net8.0\ref\Conditional2.dll
