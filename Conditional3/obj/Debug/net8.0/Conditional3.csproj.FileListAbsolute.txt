@@ -1,0 +1,14 @@
+C:\h1opgaver\Conditional3\bin\Debug\net8.0\Conditional3.exe
+C:\h1opgaver\Conditional3\bin\Debug\net8.0\Conditional3.deps.json
+C:\h1opgaver\Conditional3\bin\Debug\net8.0\Conditional3.runtimeconfig.json
+C:\h1opgaver\Conditional3\bin\Debug\net8.0\Conditional3.dll
+C:\h1opgaver\Conditional3\bin\Debug\net8.0\Conditional3.pdb
+C:\h1opgaver\Conditional3\obj\Debug\net8.0\Conditional3.GeneratedMSBuildEditorConfig.editorconfig
+C:\h1opgaver\Conditional3\obj\Debug\net8.0\Conditional3.AssemblyInfoInputs.cache
+C:\h1opgaver\Conditional3\obj\Debug\net8.0\Conditional3.AssemblyInfo.cs
+C:\h1opgaver\Conditional3\obj\Debug\net8.0\Conditional3.csproj.CoreCompileInputs.cache
+C:\h1opgaver\Conditional3\obj\Debug\net8.0\Conditional3.dll
+C:\h1opgaver\Conditional3\obj\Debug\net8.0\refint\Conditional3.dll
+C:\h1opgaver\Conditional3\obj\Debug\net8.0\Conditional3.pdb
+C:\h1opgaver\Conditional3\obj\Debug\net8.0\Conditional3.genruntimeconfig.cache
+C:\h1opgaver\Conditional3\obj\Debug\net8.0\ref\Conditional3.dll
