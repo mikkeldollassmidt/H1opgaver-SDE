@@ -1,0 +1,14 @@
+C:\h1opgaver\Loops1\bin\Debug\net8.0\Loops1.exe
+C:\h1opgaver\Loops1\bin\Debug\net8.0\Loops1.deps.json
+C:\h1opgaver\Loops1\bin\Debug\net8.0\Loops1.runtimeconfig.json
+C:\h1opgaver\Loops1\bin\Debug\net8.0\Loops1.dll
+C:\h1opgaver\Loops1\bin\Debug\net8.0\Loops1.pdb
+C:\h1opgaver\Loops1\obj\Debug\net8.0\Loops1.GeneratedMSBuildEditorConfig.editorconfig
+C:\h1opgaver\Loops1\obj\Debug\net8.0\Loops1.AssemblyInfoInputs.cache
+C:\h1opgaver\Loops1\obj\Debug\net8.0\Loops1.AssemblyInfo.cs
+C:\h1opgaver\Loops1\obj\Debug\net8.0\Loops1.csproj.CoreCompileInputs.cache
+C:\h1opgaver\Loops1\obj\Debug\net8.0\Loops1.dll
+C:\h1opgaver\Loops1\obj\Debug\net8.0\refint\Loops1.dll
+C:\h1opgaver\Loops1\obj\Debug\net8.0\Loops1.pdb
+C:\h1opgaver\Loops1\obj\Debug\net8.0\Loops1.genruntimeconfig.cache
+C:\h1opgaver\Loops1\obj\Debug\net8.0\ref\Loops1.dll
