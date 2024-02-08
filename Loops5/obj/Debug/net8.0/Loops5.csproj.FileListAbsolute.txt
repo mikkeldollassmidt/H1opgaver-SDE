@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\Loops5\bin\Debug\net8.0\Loops5.exe
+C:\Users\HFGF\source\repos\Loops5\bin\Debug\net8.0\Loops5.deps.json
+C:\Users\HFGF\source\repos\Loops5\bin\Debug\net8.0\Loops5.runtimeconfig.json
+C:\Users\HFGF\source\repos\Loops5\bin\Debug\net8.0\Loops5.dll
+C:\Users\HFGF\source\repos\Loops5\bin\Debug\net8.0\Loops5.pdb
+C:\Users\HFGF\source\repos\Loops5\obj\Debug\net8.0\Loops5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\Loops5\obj\Debug\net8.0\Loops5.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\Loops5\obj\Debug\net8.0\Loops5.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\Loops5\obj\Debug\net8.0\Loops5.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\Loops5\obj\Debug\net8.0\Loops5.dll
+C:\Users\HFGF\source\repos\Loops5\obj\Debug\net8.0\refint\Loops5.dll
+C:\Users\HFGF\source\repos\Loops5\obj\Debug\net8.0\Loops5.pdb
+C:\Users\HFGF\source\repos\Loops5\obj\Debug\net8.0\Loops5.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\Loops5\obj\Debug\net8.0\ref\Loops5.dll
