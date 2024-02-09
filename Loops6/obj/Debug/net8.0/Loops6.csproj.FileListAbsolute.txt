@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\Loops6\obj\Debug\net8.0\Loops6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\Loops6\obj\Debug\net8.0\Loops6.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\Loops6\obj\Debug\net8.0\Loops6.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\Loops6\obj\Debug\net8.0\Loops6.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\Loops6\bin\Debug\net8.0\Loops6.exe
+C:\Users\HFGF\source\repos\Loops6\bin\Debug\net8.0\Loops6.deps.json
+C:\Users\HFGF\source\repos\Loops6\bin\Debug\net8.0\Loops6.runtimeconfig.json
+C:\Users\HFGF\source\repos\Loops6\bin\Debug\net8.0\Loops6.dll
+C:\Users\HFGF\source\repos\Loops6\bin\Debug\net8.0\Loops6.pdb
+C:\Users\HFGF\source\repos\Loops6\obj\Debug\net8.0\Loops6.dll
+C:\Users\HFGF\source\repos\Loops6\obj\Debug\net8.0\refint\Loops6.dll
+C:\Users\HFGF\source\repos\Loops6\obj\Debug\net8.0\Loops6.pdb
+C:\Users\HFGF\source\repos\Loops6\obj\Debug\net8.0\Loops6.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\Loops6\obj\Debug\net8.0\ref\Loops6.dll
