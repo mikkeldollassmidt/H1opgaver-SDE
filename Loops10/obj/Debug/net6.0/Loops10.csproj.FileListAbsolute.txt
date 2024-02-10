@@ -1,0 +1,15 @@
+D:\h1opgaver\Loops10\bin\Debug\net6.0\Loops10.exe
+D:\h1opgaver\Loops10\bin\Debug\net6.0\Loops10.deps.json
+D:\h1opgaver\Loops10\bin\Debug\net6.0\Loops10.runtimeconfig.json
+D:\h1opgaver\Loops10\bin\Debug\net6.0\Loops10.dll
+D:\h1opgaver\Loops10\bin\Debug\net6.0\Loops10.pdb
+D:\h1opgaver\Loops10\obj\Debug\net6.0\Loops10.csproj.AssemblyReference.cache
+D:\h1opgaver\Loops10\obj\Debug\net6.0\Loops10.GeneratedMSBuildEditorConfig.editorconfig
+D:\h1opgaver\Loops10\obj\Debug\net6.0\Loops10.AssemblyInfoInputs.cache
+D:\h1opgaver\Loops10\obj\Debug\net6.0\Loops10.AssemblyInfo.cs
+D:\h1opgaver\Loops10\obj\Debug\net6.0\Loops10.csproj.CoreCompileInputs.cache
+D:\h1opgaver\Loops10\obj\Debug\net6.0\Loops10.dll
+D:\h1opgaver\Loops10\obj\Debug\net6.0\refint\Loops10.dll
+D:\h1opgaver\Loops10\obj\Debug\net6.0\Loops10.pdb
+D:\h1opgaver\Loops10\obj\Debug\net6.0\Loops10.genruntimeconfig.cache
+D:\h1opgaver\Loops10\obj\Debug\net6.0\ref\Loops10.dll

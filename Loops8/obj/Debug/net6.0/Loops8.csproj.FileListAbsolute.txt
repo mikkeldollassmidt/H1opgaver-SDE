@@ -1,0 +1,15 @@
+D:\h1opgaver\Loops8\bin\Debug\net6.0\Loops8.exe
+D:\h1opgaver\Loops8\bin\Debug\net6.0\Loops8.deps.json
+D:\h1opgaver\Loops8\bin\Debug\net6.0\Loops8.runtimeconfig.json
+D:\h1opgaver\Loops8\bin\Debug\net6.0\Loops8.dll
+D:\h1opgaver\Loops8\bin\Debug\net6.0\Loops8.pdb
+D:\h1opgaver\Loops8\obj\Debug\net6.0\Loops8.csproj.AssemblyReference.cache
+D:\h1opgaver\Loops8\obj\Debug\net6.0\Loops8.GeneratedMSBuildEditorConfig.editorconfig
+D:\h1opgaver\Loops8\obj\Debug\net6.0\Loops8.AssemblyInfoInputs.cache
+D:\h1opgaver\Loops8\obj\Debug\net6.0\Loops8.AssemblyInfo.cs
+D:\h1opgaver\Loops8\obj\Debug\net6.0\Loops8.csproj.CoreCompileInputs.cache
+D:\h1opgaver\Loops8\obj\Debug\net6.0\Loops8.dll
+D:\h1opgaver\Loops8\obj\Debug\net6.0\refint\Loops8.dll
+D:\h1opgaver\Loops8\obj\Debug\net6.0\Loops8.pdb
+D:\h1opgaver\Loops8\obj\Debug\net6.0\Loops8.genruntimeconfig.cache
+D:\h1opgaver\Loops8\obj\Debug\net6.0\ref\Loops8.dll
