@@ -1,0 +1,15 @@
+C:\Users\zbc23mods\source\repos\h1opgaver\Strings1\Strings3\bin\Debug\net7.0\Strings3.exe
+C:\Users\zbc23mods\source\repos\h1opgaver\Strings1\Strings3\bin\Debug\net7.0\Strings3.deps.json
+C:\Users\zbc23mods\source\repos\h1opgaver\Strings1\Strings3\bin\Debug\net7.0\Strings3.runtimeconfig.json
+C:\Users\zbc23mods\source\repos\h1opgaver\Strings1\Strings3\bin\Debug\net7.0\Strings3.dll
+C:\Users\zbc23mods\source\repos\h1opgaver\Strings1\Strings3\bin\Debug\net7.0\Strings3.pdb
+C:\Users\zbc23mods\source\repos\h1opgaver\Strings1\Strings3\obj\Debug\net7.0\Strings3.csproj.AssemblyReference.cache
+C:\Users\zbc23mods\source\repos\h1opgaver\Strings1\Strings3\obj\Debug\net7.0\Strings3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbc23mods\source\repos\h1opgaver\Strings1\Strings3\obj\Debug\net7.0\Strings3.AssemblyInfoInputs.cache
+C:\Users\zbc23mods\source\repos\h1opgaver\Strings1\Strings3\obj\Debug\net7.0\Strings3.AssemblyInfo.cs
+C:\Users\zbc23mods\source\repos\h1opgaver\Strings1\Strings3\obj\Debug\net7.0\Strings3.csproj.CoreCompileInputs.cache
+C:\Users\zbc23mods\source\repos\h1opgaver\Strings1\Strings3\obj\Debug\net7.0\Strings3.dll
+C:\Users\zbc23mods\source\repos\h1opgaver\Strings1\Strings3\obj\Debug\net7.0\refint\Strings3.dll
+C:\Users\zbc23mods\source\repos\h1opgaver\Strings1\Strings3\obj\Debug\net7.0\Strings3.pdb
+C:\Users\zbc23mods\source\repos\h1opgaver\Strings1\Strings3\obj\Debug\net7.0\Strings3.genruntimeconfig.cache
+C:\Users\zbc23mods\source\repos\h1opgaver\Strings1\Strings3\obj\Debug\net7.0\ref\Strings3.dll
