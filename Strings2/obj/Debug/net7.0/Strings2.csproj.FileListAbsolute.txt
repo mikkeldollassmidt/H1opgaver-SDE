@@ -1,0 +1,15 @@
+C:\Users\zbc23mods\source\repos\h1opgaver\Strings1\Strings2\bin\Debug\net7.0\Strings2.exe
+C:\Users\zbc23mods\source\repos\h1opgaver\Strings1\Strings2\bin\Debug\net7.0\Strings2.deps.json
+C:\Users\zbc23mods\source\repos\h1opgaver\Strings1\Strings2\bin\Debug\net7.0\Strings2.runtimeconfig.json
+C:\Users\zbc23mods\source\repos\h1opgaver\Strings1\Strings2\bin\Debug\net7.0\Strings2.dll
+C:\Users\zbc23mods\source\repos\h1opgaver\Strings1\Strings2\bin\Debug\net7.0\Strings2.pdb
+C:\Users\zbc23mods\source\repos\h1opgaver\Strings1\Strings2\obj\Debug\net7.0\Strings2.csproj.AssemblyReference.cache
+C:\Users\zbc23mods\source\repos\h1opgaver\Strings1\Strings2\obj\Debug\net7.0\Strings2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbc23mods\source\repos\h1opgaver\Strings1\Strings2\obj\Debug\net7.0\Strings2.AssemblyInfoInputs.cache
+C:\Users\zbc23mods\source\repos\h1opgaver\Strings1\Strings2\obj\Debug\net7.0\Strings2.AssemblyInfo.cs
+C:\Users\zbc23mods\source\repos\h1opgaver\Strings1\Strings2\obj\Debug\net7.0\Strings2.csproj.CoreCompileInputs.cache
+C:\Users\zbc23mods\source\repos\h1opgaver\Strings1\Strings2\obj\Debug\net7.0\Strings2.dll
+C:\Users\zbc23mods\source\repos\h1opgaver\Strings1\Strings2\obj\Debug\net7.0\refint\Strings2.dll
+C:\Users\zbc23mods\source\repos\h1opgaver\Strings1\Strings2\obj\Debug\net7.0\Strings2.pdb
+C:\Users\zbc23mods\source\repos\h1opgaver\Strings1\Strings2\obj\Debug\net7.0\Strings2.genruntimeconfig.cache
+C:\Users\zbc23mods\source\repos\h1opgaver\Strings1\Strings2\obj\Debug\net7.0\ref\Strings2.dll
