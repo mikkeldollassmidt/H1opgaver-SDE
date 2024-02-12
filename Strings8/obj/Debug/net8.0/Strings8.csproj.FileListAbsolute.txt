@@ -1,0 +1,14 @@
+C:\h1opgaver\Strings8\bin\Debug\net8.0\Strings8.exe
+C:\h1opgaver\Strings8\bin\Debug\net8.0\Strings8.deps.json
+C:\h1opgaver\Strings8\bin\Debug\net8.0\Strings8.runtimeconfig.json
+C:\h1opgaver\Strings8\bin\Debug\net8.0\Strings8.dll
+C:\h1opgaver\Strings8\bin\Debug\net8.0\Strings8.pdb
+C:\h1opgaver\Strings8\obj\Debug\net8.0\Strings8.GeneratedMSBuildEditorConfig.editorconfig
+C:\h1opgaver\Strings8\obj\Debug\net8.0\Strings8.AssemblyInfoInputs.cache
+C:\h1opgaver\Strings8\obj\Debug\net8.0\Strings8.AssemblyInfo.cs
+C:\h1opgaver\Strings8\obj\Debug\net8.0\Strings8.csproj.CoreCompileInputs.cache
+C:\h1opgaver\Strings8\obj\Debug\net8.0\Strings8.dll
+C:\h1opgaver\Strings8\obj\Debug\net8.0\refint\Strings8.dll
+C:\h1opgaver\Strings8\obj\Debug\net8.0\Strings8.pdb
+C:\h1opgaver\Strings8\obj\Debug\net8.0\Strings8.genruntimeconfig.cache
+C:\h1opgaver\Strings8\obj\Debug\net8.0\ref\Strings8.dll
