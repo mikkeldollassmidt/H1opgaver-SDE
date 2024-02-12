@@ -1,0 +1,14 @@
+C:\h1opgaver\Strings5\bin\Debug\net8.0\Strings5.exe
+C:\h1opgaver\Strings5\bin\Debug\net8.0\Strings5.deps.json
+C:\h1opgaver\Strings5\bin\Debug\net8.0\Strings5.runtimeconfig.json
+C:\h1opgaver\Strings5\bin\Debug\net8.0\Strings5.dll
+C:\h1opgaver\Strings5\bin\Debug\net8.0\Strings5.pdb
+C:\h1opgaver\Strings5\obj\Debug\net8.0\Strings5.GeneratedMSBuildEditorConfig.editorconfig
+C:\h1opgaver\Strings5\obj\Debug\net8.0\Strings5.AssemblyInfoInputs.cache
+C:\h1opgaver\Strings5\obj\Debug\net8.0\Strings5.AssemblyInfo.cs
+C:\h1opgaver\Strings5\obj\Debug\net8.0\Strings5.csproj.CoreCompileInputs.cache
+C:\h1opgaver\Strings5\obj\Debug\net8.0\Strings5.dll
+C:\h1opgaver\Strings5\obj\Debug\net8.0\refint\Strings5.dll
+C:\h1opgaver\Strings5\obj\Debug\net8.0\Strings5.pdb
+C:\h1opgaver\Strings5\obj\Debug\net8.0\Strings5.genruntimeconfig.cache
+C:\h1opgaver\Strings5\obj\Debug\net8.0\ref\Strings5.dll
