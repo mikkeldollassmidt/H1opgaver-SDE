@@ -1,0 +1,14 @@
+C:\h1opgaver\TerningKast\bin\Debug\net8.0\TerningKast.exe
+C:\h1opgaver\TerningKast\bin\Debug\net8.0\TerningKast.deps.json
+C:\h1opgaver\TerningKast\bin\Debug\net8.0\TerningKast.runtimeconfig.json
+C:\h1opgaver\TerningKast\bin\Debug\net8.0\TerningKast.dll
+C:\h1opgaver\TerningKast\bin\Debug\net8.0\TerningKast.pdb
+C:\h1opgaver\TerningKast\obj\Debug\net8.0\TerningKast.GeneratedMSBuildEditorConfig.editorconfig
+C:\h1opgaver\TerningKast\obj\Debug\net8.0\TerningKast.AssemblyInfoInputs.cache
+C:\h1opgaver\TerningKast\obj\Debug\net8.0\TerningKast.AssemblyInfo.cs
+C:\h1opgaver\TerningKast\obj\Debug\net8.0\TerningKast.csproj.CoreCompileInputs.cache
+C:\h1opgaver\TerningKast\obj\Debug\net8.0\TerningKast.dll
+C:\h1opgaver\TerningKast\obj\Debug\net8.0\refint\TerningKast.dll
+C:\h1opgaver\TerningKast\obj\Debug\net8.0\TerningKast.pdb
+C:\h1opgaver\TerningKast\obj\Debug\net8.0\TerningKast.genruntimeconfig.cache
+C:\h1opgaver\TerningKast\obj\Debug\net8.0\ref\TerningKast.dll
