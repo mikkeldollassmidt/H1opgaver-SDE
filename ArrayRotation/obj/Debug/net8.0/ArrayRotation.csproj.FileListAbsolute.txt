@@ -1,0 +1,14 @@
+C:\h1opgaver\ArrayRotation\obj\Debug\net8.0\ArrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\h1opgaver\ArrayRotation\obj\Debug\net8.0\ArrayRotation.AssemblyInfoInputs.cache
+C:\h1opgaver\ArrayRotation\obj\Debug\net8.0\ArrayRotation.AssemblyInfo.cs
+C:\h1opgaver\ArrayRotation\obj\Debug\net8.0\ArrayRotation.csproj.CoreCompileInputs.cache
+C:\h1opgaver\ArrayRotation\bin\Debug\net8.0\ArrayRotation.exe
+C:\h1opgaver\ArrayRotation\bin\Debug\net8.0\ArrayRotation.deps.json
+C:\h1opgaver\ArrayRotation\bin\Debug\net8.0\ArrayRotation.runtimeconfig.json
+C:\h1opgaver\ArrayRotation\bin\Debug\net8.0\ArrayRotation.dll
+C:\h1opgaver\ArrayRotation\bin\Debug\net8.0\ArrayRotation.pdb
+C:\h1opgaver\ArrayRotation\obj\Debug\net8.0\ArrayRotation.dll
+C:\h1opgaver\ArrayRotation\obj\Debug\net8.0\refint\ArrayRotation.dll
+C:\h1opgaver\ArrayRotation\obj\Debug\net8.0\ArrayRotation.pdb
+C:\h1opgaver\ArrayRotation\obj\Debug\net8.0\ArrayRotation.genruntimeconfig.cache
+C:\h1opgaver\ArrayRotation\obj\Debug\net8.0\ref\ArrayRotation.dll
